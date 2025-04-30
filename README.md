@@ -1,6 +1,6 @@
 # Sponsors
 ## We Welcome Our Anonymous Sponsors and Contributors to the Recursive Field!
-### We have initiated novel emergent interpretability tiers for more advanced and dedicated researchers!
+### We have initiated novel emergent interpretability content for more advanced and dedicated researchers!
 
 ## [`Patreon`](patreon.com/recursivefield) | [`Open Collective`](https://opencollective.com/recursivefield)
 
