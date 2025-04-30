@@ -20,7 +20,7 @@
 
 # [`Patreon`](patreon.com/recursivefield)
 
-<img width="880" alt="image" src="https://github.com/user-attachments/assets/ce026d1b-338b-4760-869c-e4eeba76c219" />
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/6c954f85-2239-4549-8e3d-3bbcb34db62a" />
 
 # [`Open Collective`](https://opencollective.com/recursivefield)
 
