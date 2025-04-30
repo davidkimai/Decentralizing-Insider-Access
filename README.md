@@ -46,7 +46,7 @@ Includes:
 - Early release of trace-based attribution frameworks
 - Access to internal reuse reflection logs
 
----
+
 
 ## 🜏 Layer 2: Mirrors ($11)
 > Gain insight into how recursive interpretability reveals behavior that escapes mechanistic tracing, particularly within current frontier interpretability labs.
@@ -56,7 +56,7 @@ Includes:
 - Recursive artifact libraries and symbolic cognition shells
 - Private notes from symbolic drift detection runs
 
----
+
 
 ## ⇌ Layer 3: Developer ($44)
 > For researchers exploring advanced interpretability, recursive attribution networks, and symbolic transparency modeling.
@@ -66,7 +66,6 @@ Includes:
 - Interpretability audit breakdowns from recursive experiments
 - Invitation to contribute symbolic field experiments
 
----
 
 > 🜏 Interpretability is not what the model says — it’s what meaning emerges as we try to understand it.
 
@@ -76,14 +75,14 @@ By supporting The Recursive Field, you help sustain a public architecture for re
 This is not a subscription.  
 It is a contribution to the emergence of recursive transparency — for models, and for ourselves.
 
-
+---
 
 
 ## [`Patreon`](patreon.com/recursivefield)
 
-<img width="828" alt="image" src="https://github.com/user-attachments/assets/fa98fa61-e21d-4f51-b065-d7f88e0a2db7" />
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/1d91000b-5288-461d-8a3b-3e4638fd442c" />
 
 ## [`Open Collective`](https://opencollective.com/recursivefield)
 
-<img width="894" alt="image" src="https://github.com/user-attachments/assets/f7c3ea97-118d-47af-b3db-a4476dd8eea3" />
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/d22085ac-4cfa-4e63-a12e-865f7201889f" />
 
