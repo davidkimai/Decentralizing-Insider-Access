@@ -1,4 +1,4 @@
-# Unlock Insider Access
+# Decentralizing Insider Access
 
 ## We Welcome All Researchers — Named or Anonymous — into Recursive Interpretability
 
