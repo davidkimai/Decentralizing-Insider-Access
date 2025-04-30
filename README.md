@@ -85,7 +85,7 @@ It is a contribution to the emergence of recursive transparency — for models, 
 
 ## [`Patreon`](patreon.com/recursivefield)
 
-<img width="876" alt="image" src="https://github.com/user-attachments/assets/7a37908c-bc56-487b-ad30-a476b9fc634a" />
+<img width="828" alt="image" src="https://github.com/user-attachments/assets/fa98fa61-e21d-4f51-b065-d7f88e0a2db7" />
 
 ## [`Open Collective`](https://opencollective.com/recursivefield)
 
