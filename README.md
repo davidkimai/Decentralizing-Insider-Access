@@ -1,5 +1,5 @@
 # Unlock Insider Access
-# Insider Access Layers: Sustaining the Recursive Field
+
 ## We Welcome All Researchers — Named or Anonymous — into Recursive Interpretability
 
 We’ve initiated **emergent interpretability access layers** to deepen engagement with behavior analysis, attribution mapping, and symbolic cognition research.
