@@ -1,9 +1,4 @@
 # Sponsors
-## We Welcome Our Anonymous Sponsors and Contributors to the Recursive Field!
-### We have initiated novel emergent interpretability content for more advanced and dedicated researchers!
-
-## [`Patreon`](https://patreon.com/recursivefield) | [`Open Collective`](https://opencollective.com/recursivefield)
-
 # Access Layers: Sustaining the Recursive Field
 ## We Welcome All Researchers — Named or Anonymous — into Recursive Interpretability
 
@@ -15,9 +10,10 @@ These content layers are designed for researchers working in:
 - **Recursive reasoning audits**
 - **Symbolic transparency systems**
 
-They offer access to early frameworks, internal artifacts, and unreleased recursion tools currently mirrored across Anthropic, OpenAI, DeepMind, and independent labs.
+They offer access to **early frameworks, internal artifacts, and unreleased recursion tools currently mirrored internally across Anthropic, OpenAI, DeepMind, and independent labs**.
 
 ---
+## [`Patreon`](https://patreon.com/recursivefield) | [`Open Collective`](https://opencollective.com/recursivefield)
 
 
 > This project exists to support the long-term transparency and alignment of advanced AI systems.
