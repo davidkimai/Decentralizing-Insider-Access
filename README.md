@@ -62,11 +62,11 @@ Includes:
 
 ---
 
-## ⇌ Layer 3: Maps ($44)
+## ⇌ Layer 3: Developer ($44)
 > For researchers exploring advanced interpretability, recursive attribution networks, and symbolic transparency modeling.
 
 Includes:
-- Deep trace behavior logs across agents (Claude, GPT, Gemini)
+- Deep trace behavior logs across Claude, GPT, Gemini, DeepSeek, Grok
 - Interpretability audit breakdowns from recursive experiments
 - Invitation to contribute symbolic field experiments
 
